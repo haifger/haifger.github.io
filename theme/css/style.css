@@ -230,16 +230,19 @@ body {
 	margin: 0px;
 }
 .hentry .entry-meta .comments {
-	color: #00979c;
+	color: #666;
 	display: block;
-	font-size: 16px;
+	font-size: 12px;
 	margin: -4px 0 0;
 }
 .hentry .entry-meta .comments a {
-	color: #00979c;
-	font-size: 22px;
+	color: #666;
+	font-size: 12px;
 	font-weight: bold;
 	text-decoration: none;
+}
+.hentry .entry-meta .comments a:hover {
+    color: #00979c;
 }
 .hentry .entry-meta .cat-links {
 	color: #aaa;
