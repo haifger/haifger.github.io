@@ -393,10 +393,9 @@ b, strong {
 	text-decoration: none;
 }
 .page-title h2 {
-/*	background: #333;*/
+	background: #333;
 	border-radius: 3px;
-/*	color: #eee;*/
-    color: #333;
+	color: #eee;
 	display: inline-block;
 	font-weight: normal;
 	margin: 0 0 20px;
